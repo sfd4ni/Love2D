@@ -9,7 +9,7 @@
 - [Ejecución del programa](https://github.com/sfd4ni/Love2D#ejecuci%C3%B3n--del-programa)
 - [Salida de nuestro 'Hola Mundo'](https://github.com/sfd4ni/Love2D#salida-de-nuestro-hola-mundo)
 - [Juego Pong](https://github.com/sfd4ni/Love2D#juego-pong)
-- 
+
 ## ¿Qué es LÖVE?
 ---
 LÖVE, también conocido como Love2d es un Framework pensado para el desarrollo de juegos en entornos 2D a partir del lenguaje de programación Lua. LÖVE es de uso completamente gratuito y está pensado tanto como para gente que quiere tomarlo como un hobby de código abierto, como para empresas que quieran hacer un proyecto con  el  mismo.
