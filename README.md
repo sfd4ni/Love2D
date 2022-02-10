@@ -1,5 +1,8 @@
+<div align="justify">
 # LÖVE
-![Logo](https://1.bp.blogspot.com/-Mnv7YMlsGT4/X3-k6_YDYII/AAAAAAAAHPs/eOmAUaxXvqkv0l3hFDFFf28USMXgI_nzwCLcBGAsYHQ/s373/logo.png)
+<div align="center">
+  <img src="https://1.bp.blogspot.com/-Mnv7YMlsGT4/X3-k6_YDYII/AAAAAAAAHPs/eOmAUaxXvqkv0l3hFDFFf28USMXgI_nzwCLcBGAsYHQ/s373/logo.png" width="500px" />
+</div>
 
 ## Índice
 ---
@@ -244,3 +247,6 @@ https://user-images.githubusercontent.com/72398621/153402861-58c265e3-6d94-439e-
 ## Conclusión
 ---
 La sencillez de instalación y de preparación de entorno de esta aplicación realmente te dan ganas de empezar directamente. Es completamente gratuito, y tiene ya un recorrido de 14 años, el nivel de programación que demanda para entrar este framework es bajo, lo cual lo convierte ideal para la enseñanza y el autoaprendizaje hacia el mundo de los videojuegos. Los problemas son que el lenguaje de programación Lua no es de los lenguajes más conocidos y al no tener la más grande de las comunidades, es más complicado encontrar documentación. Pero es, como mínimo, una manera divertida de entrar al desarrollo de videojuegos si tienes un nivel mínimo de programación.
+                                  </div>
+                                  
+                                  
