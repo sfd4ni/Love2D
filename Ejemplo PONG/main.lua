@@ -4,7 +4,7 @@ function love.load()
   love.window.setMode(1600, 800)
   background = love.graphics.newImage("fondo.jpg")
   sonidoPong = love.audio.newSource("hitSound.wav", "static")
-  reset("J1")
+  reset("J2")
   
 end
 
@@ -113,11 +113,16 @@ function reset(ganador)
   pelota.x = love.graphics.getWidth() / 2
   pelota.y = love.graphics.getHeight() / 2
   pelota.radio = 20
-  pelota.derecha = false
   pelota.arriba = false
+  if ganador == "J1" then
+    pelota.derecha = false
+  else
+    pelota.derecha = true
+  end
+  
   pelota.velocidad = 5
 end
--- Función que dibujará nuestros dos rectángulos.
+-- Función que dibujará nuestra
 function love.draw()
   love.graphics.setBackgroundColor(1, 1, 1)
   love.graphics.setColor(1, 1, 1)
