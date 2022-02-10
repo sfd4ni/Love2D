@@ -225,6 +225,12 @@ end
 ```
 ### Producto final
 
+Aquí vemos como funciona correctamente el programa, teniendo un producto final bastante decente
+
+https://user-images.githubusercontent.com/72398621/153402861-58c265e3-6d94-439e-8d92-000b19362ab8.mp4
+
+
+
 ## Conclusión
 ---
-La sencillez de instalación y de preparación de entorno de esta aplicación realmente te dan ganas de empezar directamente. Es completamente gratuito, y tiene ya un recorrido de 14 años. Los problemas son que el lenguaje de programación Lua no es de los lenguajes más conocidos y al no tener la más grande de las comunidades, es más complicado encontrar documentación. Pero es, como mínimo, una manera divertida de entrar al desarrollo de videojuegos si tienes un nivel medio mínimo de programación.
+La sencillez de instalación y de preparación de entorno de esta aplicación realmente te dan ganas de empezar directamente. Es completamente gratuito, y tiene ya un recorrido de 14 años, el nivel de programación que demanda para entrar este framework es bajo, lo cual lo convierte ideal para la enseñanza y el autoaprendizaje hacia el mundo de los videojuegos. Los problemas son que el lenguaje de programación Lua no es de los lenguajes más conocidos y al no tener la más grande de las comunidades, es más complicado encontrar documentación. Pero es, como mínimo, una manera divertida de entrar al desarrollo de videojuegos si tienes un nivel mínimo de programación.
